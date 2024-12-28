@@ -1,0 +1,17 @@
+
+
+
+
+modellerin implementasyonu
+
+
+load -> load model
+
+infer -> bbox dondur results objesi icinde 
+
+
+
+demo -> image üzerinden
+
+benchmark -> image, video bul
+plot faces: true predicted actual face, not predicted actual face, wrong predicted face, 
